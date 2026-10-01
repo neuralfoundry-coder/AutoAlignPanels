@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Direct-distribution (DMG) build: NO App Sandbox.
+         A sandboxed process cannot self-register in System Settings →
+         Privacy & Security → Accessibility (the AX prompt is suppressed),
+         which breaks the app's automatic permission flow. The App Store
+         build keeps AutoAlignPanels.entitlements with the sandbox. -->
+</dict>
+</plist>

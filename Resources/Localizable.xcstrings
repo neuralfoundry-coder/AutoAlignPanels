@@ -1,0 +1,1668 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ has %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%1$@에 창이 %2$lld개 있습니다" } }
+      }
+    },
+    "%@ has 1 window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%@에 창이 1개 있습니다" } }
+      }
+    },
+    "%@ has no focused window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%@에 포커스된 창이 없습니다" } }
+      }
+    },
+    "%@ has no open windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%@에 열린 창이 없습니다" } }
+      }
+    },
+    "%@ has no windows on this Space" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이 Space에 %@의 창이 없습니다" } }
+      }
+    },
+    "%@ is hidden" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%@ 앱은 숨겨져 있습니다" } }
+      }
+    },
+    "%@ is not responding" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%@이(가) 응답하지 않습니다" } }
+      }
+    },
+    "%@, window %lld of %lld, stacked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%1$@, 겹쳐진 창 %3$lld개 중 %2$lld번째" } }
+      }
+    },
+    "%lld pt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%lld pt" } }
+      }
+    },
+    "%@ is not resizable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%@ 창은 크기를 조절할 수 없습니다" } }
+      }
+    },
+    "%@ kept its minimum size" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%@ 창은 최소 크기를 유지했습니다" } }
+      }
+    },
+    "%@, %@, not in the current alignment" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%1$@, %2$@, 현재 정렬에 포함되지 않음" } }
+      }
+    },
+    "%@, row %lld, column %lld, of %lld by %lld grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%1$@, %4$lld x %5$lld 그리드의 %2$lld행 %3$lld열" } }
+      }
+    },
+    "%lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %lld개" } }
+      }
+    },
+    "%lld windows are not resizable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %lld개는 크기를 조절할 수 없습니다" } }
+      }
+    },
+    "%lld windows kept their minimum size" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %lld개는 최소 크기를 유지했습니다" } }
+      }
+    },
+    "%lld windows were not moved" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %lld개는 이동하지 않았습니다" } }
+      }
+    },
+    "%lld×%lld grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%lld×%lld 그리드" } }
+      }
+    },
+    "1 window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 1개" } }
+      }
+    },
+    "About" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "정보" } }
+      }
+    },
+    "Accessibility" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "손쉬운 사용" } }
+      }
+    },
+    "Accessibility access granted" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "손쉬운 사용 권한 허용됨" } }
+      }
+    },
+    "Accessibility access not granted" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "손쉬운 사용 권한이 허용되지 않음" } }
+      }
+    },
+    "Accessibility access required" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "손쉬운 사용 권한 필요" } }
+      }
+    },
+    "Accessibility permission is required. Enable AutoAlignPanels in System Settings, Privacy and Security, Accessibility." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "손쉬운 사용 권한이 필요합니다. 시스템 설정 › 개인정보 보호 및 보안 › 손쉬운 사용에서 AutoAlignPanels를 켜 주세요." } }
+      }
+    },
+    "Align at most: %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "최대 정렬 개수: 창 %lld개" } }
+      }
+    },
+    "Align at most: no limit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "최대 정렬 개수: 제한 없음" } }
+      }
+    },
+    "Align Grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "그리드 정렬" } }
+      }
+    },
+    "Align Horizontally" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가로 정렬" } }
+      }
+    },
+    "Align Vertically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "세로 정렬" } }
+      }
+    },
+    "Align with last layout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "마지막 레이아웃으로 정렬" } }
+      }
+    },
+    "Aligned %lld of %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%2$lld개 중 %1$lld개 정렬" } }
+      }
+    },
+    "Aligned %lld of %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %2$lld개 중 %1$lld개를 정렬했습니다" } }
+      }
+    },
+    "Aligned %lld of %lld windows of %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%3$@의 창 %2$lld개 중 %1$lld개를 정렬했습니다" } }
+      }
+    },
+    "Aligned %lld windows horizontally side by side" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %lld개를 가로로 나란히 정렬했습니다" } }
+      }
+    },
+    "Aligned %lld windows into a %lld by %lld grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %1$lld개를 %2$lld x %3$lld 그리드로 정렬했습니다" } }
+      }
+    },
+    "Aligned %lld windows of %@ horizontally side by side" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%2$@의 창 %1$lld개를 가로로 나란히 정렬했습니다" } }
+      }
+    },
+    "Aligned %lld windows of %@ into a %lld by %lld grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%2$@의 창 %1$lld개를 %3$lld x %4$lld 그리드로 정렬했습니다" } }
+      }
+    },
+    "Aligned the first %lld of %lld windows horizontally side by side" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %2$lld개 중 처음 %1$lld개를 가로로 나란히 정렬했습니다" } }
+      }
+    },
+    "Aligned the first %lld of %lld windows into a %lld by %lld grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %2$lld개 중 처음 %1$lld개를 %3$lld x %4$lld 그리드로 정렬했습니다" } }
+      }
+    },
+    "Aligned the first %lld of %lld windows of %@ horizontally side by side" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%3$@의 창 %2$lld개 중 처음 %1$lld개를 가로로 나란히 정렬했습니다" } }
+      }
+    },
+    "Aligned the first %lld of %lld windows of %@ into a %lld by %lld grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%3$@의 창 %2$lld개 중 처음 %1$lld개를 %4$lld x %5$lld 그리드로 정렬했습니다" } }
+      }
+    },
+    "All windows are full screen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 창이 전체 화면입니다" } }
+      }
+    },
+    "All windows of %@ are full screen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%@의 모든 창이 전체 화면입니다" } }
+      }
+    },
+    "An accessibility tool for arranging, announcing, and focusing the front app's windows — entirely from the keyboard." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 앱의 창을 정렬하고, 안내하고, 포커스하는 손쉬운 사용 도구 — 모두 키보드만으로." } }
+      }
+    },
+    "An accessibility tool that arranges, announces, and focuses the front app's windows from the keyboard — for users with vision, motor, or cognitive needs." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "시각·운동·인지 접근성이 필요한 사용자를 위해, 키보드만으로 현재 앱의 창을 정렬하고 안내하고 포커스하는 손쉬운 사용 도구입니다." } }
+      }
+    },
+    "Announce window position" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 위치 안내" } }
+      }
+    },
+    "Arranges windows of the front app into a grid." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 앱의 창을 그리드로 정렬합니다." } }
+      }
+    },
+    "Arranges windows of the frontmost app into a grid." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 앱의 창을 그리드로 정렬합니다." } }
+      }
+    },
+    "AutoAlignPanels — align the front app's windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels — 현재 앱의 창 정렬" } }
+      }
+    },
+    "AutoAlignPanels Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels 설정" } }
+      }
+    },
+    "AutoAlignPanels lives in your menu bar — look for the grid icon." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels는 메뉴 막대에 있습니다 — 그리드 아이콘을 찾아보세요." } }
+      }
+    },
+    "AutoAlignPanels, keyboard-driven window accessibility tool" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels, 키보드 중심 창 손쉬운 사용 도구" } }
+      }
+    },
+    "Brings the window in slot 1 of the last alignment to focus, for keyboard-only users." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "마지막 정렬의 슬롯 1 창에 포커스를 이동합니다. 키보드 전용 사용자를 위한 기능입니다." } }
+      }
+    },
+    "Brings the window in slot 2 of the last alignment to focus." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "마지막 정렬의 슬롯 2 창에 포커스를 이동합니다." } }
+      }
+    },
+    "Brings the window in slot 3 of the last alignment to focus." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "마지막 정렬의 슬롯 3 창에 포커스를 이동합니다." } }
+      }
+    },
+    "Brings the window in slot 4 of the last alignment to focus." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "마지막 정렬의 슬롯 4 창에 포커스를 이동합니다." } }
+      }
+    },
+    "Cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "취소" } }
+      }
+    },
+    "Could not align windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창을 정렬할 수 없습니다" } }
+      }
+    },
+    "Could not align windows of %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%@의 창을 정렬할 수 없습니다" } }
+      }
+    },
+    "Could not focus slot %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "슬롯 %lld에 포커스할 수 없습니다" } }
+      }
+    },
+    "Could not focus that window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "해당 창에 포커스할 수 없습니다" } }
+      }
+    },
+    "Could not restore previous arrangement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이전 배치로 복원할 수 없습니다" } }
+      }
+    },
+    "Differentiate Without Color" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "색상 없이 구별" } }
+      }
+    },
+    "Done" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "완료" } }
+      }
+    },
+    "Extra windows stay where they are, and the announcement says so. 0 means no limit." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "초과한 창은 제자리에 유지되며, 안내 음성으로 알려 줍니다. 0은 제한 없음을 뜻합니다." } }
+      }
+    },
+    "Focus slot 1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "슬롯 1 포커스" } }
+      }
+    },
+    "Focus slot 2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "슬롯 2 포커스" } }
+      }
+    },
+    "Focus slot 3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "슬롯 3 포커스" } }
+      }
+    },
+    "Focus slot 4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "슬롯 4 포커스" } }
+      }
+    },
+    "Focus window above" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "위 창 포커스" } }
+      }
+    },
+    "Focus window below" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아래 창 포커스" } }
+      }
+    },
+    "Focus window left" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽 창 포커스" } }
+      }
+    },
+    "Focus window right" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오른쪽 창 포커스" } }
+      }
+    },
+    "Focus without a pointer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "포인터 없이 포커스" } }
+      }
+    },
+    "Focused %@, row %lld, column %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%1$@ 포커스, %2$lld행 %3$lld열" } }
+      }
+    },
+    "Focused %@, window %lld of %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%1$@ 포커스, 창 %3$lld개 중 %2$lld번째" } }
+      }
+    },
+    "Focused slot %lld: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "슬롯 %1$lld 포커스: %2$@" } }
+      }
+    },
+    "General" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "일반" } }
+      }
+    },
+    "Grant" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "허용" } }
+      }
+    },
+    "Grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "그리드" } }
+      }
+    },
+    "Grid layout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "그리드 정렬" } }
+      }
+    },
+    "Grid layout, %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "그리드 정렬, 창 %lld개" } }
+      }
+    },
+    "Grid layout, first %lld of %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "그리드 정렬, 창 %2$lld개 중 처음 %1$lld개" } }
+      }
+    },
+    "Hear your windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창을 소리로 확인" } }
+      }
+    },
+    "Hide" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가리기" } }
+      }
+    },
+    "Hide menu bar icon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "메뉴 막대 아이콘 가리기" } }
+      }
+    },
+    "Hide the menu bar icon?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "메뉴 막대 아이콘을 가릴까요?" } }
+      }
+    },
+    "Horizontal layout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가로 정렬" } }
+      }
+    },
+    "Horizontal layout, %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가로 정렬, 창 %lld개" } }
+      }
+    },
+    "Horizontal layout, first %lld of %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가로 정렬, 창 %2$lld개 중 처음 %1$lld개" } }
+      }
+    },
+    "Install AutoAlignPanels before granting permissions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "권한을 허용하기 전에 AutoAlignPanels를 설치하세요" } }
+      }
+    },
+    "Drag AutoAlignPanels to the Applications folder and open it from there. macOS cannot remember Accessibility permission for an app running from a disk image or a translocated location." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels를 응용 프로그램 폴더로 드래그한 뒤 그곳에서 실행하세요. 디스크 이미지나 임시 위치에서 실행된 앱은 macOS가 손쉬운 사용 권한을 기억할 수 없습니다." } }
+      }
+    },
+    "Continue Anyway" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "계속 진행" } }
+      }
+    },
+    "Include the application name and grid dimensions in spoken announcements." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "음성 안내에 앱 이름과 그리드 크기를 포함합니다." } }
+      }
+    },
+    "Increase Contrast" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "대비 증가" } }
+      }
+    },
+    "Keyboard-driven window accessibility" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "키보드 중심 창 손쉬운 사용" } }
+      }
+    },
+    "Launch at login" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "로그인 시 실행" } }
+      }
+    },
+    "Layout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "레이아웃" } }
+      }
+    },
+    "Left click aligns immediately" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽 클릭으로 즉시 정렬" } }
+      }
+    },
+    "Lines windows side by side in a single row." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창을 한 줄로 나란히 배치합니다." } }
+      }
+    },
+    "macOS will ask you to allow AutoAlignPanels under Privacy & Security → Accessibility." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "macOS가 개인정보 보호 및 보안 → 손쉬운 사용에서 AutoAlignPanels 허용을 요청합니다." } }
+      }
+    },
+    "Makes every window of the frontmost app full size, stacked. Use the slot shortcuts to switch between them." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 앱의 모든 창을 전체 크기로 만들어 겹쳐 놓습니다. 슬롯 단축키로 창을 전환하세요." } }
+      }
+    },
+    "Maximize stacked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "최대화하여 쌓기" } }
+      }
+    },
+    "Maximize Stacked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "최대화하여 쌓기" } }
+      }
+    },
+    "Maximized" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "최대화" } }
+      }
+    },
+    "Maximized %lld windows of %@, stacked full screen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%2$@의 창 %1$lld개를 전체 화면 크기로 최대화하여 겹쳐 놓았습니다" } }
+      }
+    },
+    "Maximized %lld windows, stacked full screen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %lld개를 전체 화면 크기로 최대화하여 겹쳐 놓았습니다" } }
+      }
+    },
+    "Maximized the first %lld of %lld windows of %@, stacked full screen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%3$@의 창 %2$lld개 중 처음 %1$lld개를 전체 화면 크기로 최대화하여 겹쳐 놓았습니다" } }
+      }
+    },
+    "Maximized the first %lld of %lld windows, stacked full screen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %2$lld개 중 처음 %1$lld개를 전체 화면 크기로 최대화하여 겹쳐 놓았습니다" } }
+      }
+    },
+    "Maximized, %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "최대화, 창 %lld개" } }
+      }
+    },
+    "Maximized, first %lld of %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "최대화, 창 %2$lld개 중 처음 %1$lld개" } }
+      }
+    },
+    "Maximum windows to align" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "정렬할 최대 창 개수" } }
+      }
+    },
+    "Menu bar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "메뉴 막대" } }
+      }
+    },
+    "Move keyboard focus between aligned windows with slots or arrow keys." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "슬롯이나 방향키로 정렬된 창 사이에서 키보드 포커스를 이동합니다." } }
+      }
+    },
+    "Move to next display" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "다음 디스플레이로 이동" } }
+      }
+    },
+    "Moved to %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%@(으)로 이동했습니다" } }
+      }
+    },
+    "Moves focus to the window in the cell above." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "위 셀의 창으로 포커스를 이동합니다." } }
+      }
+    },
+    "Moves focus to the window in the cell below." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아래 셀의 창으로 포커스를 이동합니다." } }
+      }
+    },
+    "Moves focus to the window in the cell to the left." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽 셀의 창으로 포커스를 이동합니다." } }
+      }
+    },
+    "Moves focus to the window in the cell to the right." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오른쪽 셀의 창으로 포커스를 이동합니다." } }
+      }
+    },
+    "Moves the frontmost app's windows to the next display." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 앱의 창을 다음 디스플레이로 이동합니다." } }
+      }
+    },
+    "Moves windows back to where they were before the last alignment. Press again to reapply." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창을 마지막 정렬 이전 위치로 되돌립니다. 다시 누르면 재적용됩니다." } }
+      }
+    },
+    "Needed to move and read windows." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창을 이동하고 읽으려면 필요합니다." } }
+      }
+    },
+    "No alignment active. Align windows first." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "활성 정렬이 없습니다. 먼저 창을 정렬하세요." } }
+      }
+    },
+    "No display found" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "디스플레이를 찾을 수 없습니다" } }
+      }
+    },
+    "No window above" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "위에 창이 없습니다" } }
+      }
+    },
+    "No window below" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아래에 창이 없습니다" } }
+      }
+    },
+    "No window to the left" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽에 창이 없습니다" } }
+      }
+    },
+    "No window to the right" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오른쪽에 창이 없습니다" } }
+      }
+    },
+    "No windows on this Space to align" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이 Space에는 정렬할 창이 없습니다" } }
+      }
+    },
+    "No windows to align" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "정렬할 창이 없습니다" } }
+      }
+    },
+    "Nothing to restore" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "복원할 배치가 없습니다" } }
+      }
+    },
+    "One window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 하나" } }
+      }
+    },
+    "One click on the menu bar icon applies the app's last layout — no chord needed. Right-click still opens the menu." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "메뉴 막대 아이콘을 한 번 클릭하면 앱의 마지막 레이아웃을 적용합니다. 오른쪽 클릭은 메뉴를 엽니다." } }
+      }
+    },
+    "One-keystroke layouts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "단축키 하나로 정렬" } }
+      }
+    },
+    "On" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "켬" } }
+      }
+    },
+    "Off" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "끔" } }
+      }
+    },
+    "Only one display connected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "연결된 디스플레이가 하나뿐입니다" } }
+      }
+    },
+    "Open settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "설정 열기" } }
+      }
+    },
+    "Open System Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "시스템 설정 열기" } }
+      }
+    },
+    "Opens System Settings to grant Accessibility permission" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "손쉬운 사용 권한을 허용할 수 있는 시스템 설정을 엽니다" } }
+      }
+    },
+    "Opens the Accessibility privacy pane where you can allow AutoAlignPanels." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels를 허용할 수 있는 손쉬운 사용 개인정보 보호 패널을 엽니다." } }
+      }
+    },
+    "Other feedback" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "기타 피드백" } }
+      }
+    },
+    "Play sound cue per layout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "레이아웃별 소리 신호 재생" } }
+      }
+    },
+    "Plays a distinct system sound for each layout, and different sounds for partial or failed alignments." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "레이아웃마다 다른 시스템 사운드를 재생하고, 부분 성공이나 실패 시 다른 소리를 냅니다." } }
+      }
+    },
+    "Predictable, repeatable window arrangements that replace drag-and-resize." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "드래그와 크기 조절을 대신하는 예측 가능하고 반복 가능한 창 배치." } }
+      }
+    },
+    "Provides predictable, repeatable behavior for users with cognitive accessibility needs." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "인지 접근성이 필요한 사용자를 위해 예측 가능하고 반복 가능한 동작을 제공합니다." } }
+      }
+    },
+    "Quit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "종료" } }
+      }
+    },
+    "Quit AutoAlignPanels" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels 종료" } }
+      }
+    },
+    "Quits AutoAlignPanels." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels를 종료합니다." } }
+      }
+    },
+    "Read open windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "열린 창 읽기" } }
+      }
+    },
+    "Read Open Windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "열린 창 읽기" } }
+      }
+    },
+    "Reduce Motion" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "동작 줄이기" } }
+      }
+    },
+    "Remember last layout per app" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱별 마지막 레이아웃 기억" } }
+      }
+    },
+    "Repeats whichever layout was last used for the frontmost app. Falls back to grid." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 앱에 마지막으로 사용한 레이아웃을 다시 적용합니다. 없으면 그리드를 사용합니다." } }
+      }
+    },
+    "Restarting AutoAlignPanels to apply the accessibility permission." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "손쉬운 사용 권한 적용을 위해 AutoAlignPanels를 다시 시작합니다." } }
+      }
+    },
+    "Accessibility permission isn't active yet. Quit and reopen AutoAlignPanels." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "손쉬운 사용 권한이 아직 적용되지 않았습니다. AutoAlignPanels를 종료 후 다시 실행해 주세요." } }
+      }
+    },
+    "Restore previous arrangement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이전 배치 복원" } }
+      }
+    },
+    "Restore Previous Arrangement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이전 배치 복원" } }
+      }
+    },
+    "Restored" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "복원됨" } }
+      }
+    },
+    "Restored previous arrangement, %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이전 배치로 복원했습니다, 창 %lld개" } }
+      }
+    },
+    "Restored previous arrangement, 1 window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이전 배치로 복원했습니다, 창 1개" } }
+      }
+    },
+    "Screen edge margin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "화면 가장자리 여백" } }
+      }
+    },
+    "Screen edge margin in points" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "화면 가장자리 여백(포인트)" } }
+      }
+    },
+    "Send Feedback" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "피드백 보내기" } }
+      }
+    },
+    "Settings…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "설정…" } }
+      }
+    },
+    "Shortcuts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "단축키" } }
+      }
+    },
+    "Side by side" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가로 정렬" } }
+      }
+    },
+    "Slot %lld is empty" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "슬롯 %lld이(가) 비어 있습니다" } }
+      }
+    },
+    "Slot %lld is no longer available" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "슬롯 %lld을(를) 더 이상 사용할 수 없습니다" } }
+      }
+    },
+    "Speak alignment results (VoiceOver)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "정렬 결과 말하기 (VoiceOver)" } }
+      }
+    },
+    "Speak results aloud (without VoiceOver)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "결과 소리 내어 말하기 (VoiceOver 없이)" } }
+      }
+    },
+    "Speaks every visible window of the front app." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 앱의 모든 창 제목을 음성으로 읽습니다." } }
+      }
+    },
+    "Speaks every visible window of the frontmost app for VoiceOver users." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "VoiceOver 사용자를 위해 현재 앱의 모든 창을 음성으로 읽습니다." } }
+      }
+    },
+    "Speaks the focused window's row and column in the current layout." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "포커스된 창의 행과 열 위치를 음성으로 안내합니다." } }
+      }
+    },
+    "Speaks the layout and titles of open windows for VoiceOver users." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "VoiceOver 사용자를 위해 열린 창의 레이아웃과 제목을 음성으로 읽습니다." } }
+      }
+    },
+    "Spoken feedback" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "음성 피드백" } }
+      }
+    },
+    "Stacked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "세로 쌓기" } }
+      }
+    },
+    "Stacked %lld windows of %@ vertically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%2$@의 창 %1$lld개를 세로로 쌓았습니다" } }
+      }
+    },
+    "Stacked %lld windows vertically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %lld개를 세로로 쌓았습니다" } }
+      }
+    },
+    "Stacked the first %lld of %lld windows of %@ vertically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "%3$@의 창 %2$lld개 중 처음 %1$lld개를 세로로 쌓았습니다" } }
+      }
+    },
+    "Stacked the first %lld of %lld windows vertically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 %2$lld개 중 처음 %1$lld개를 세로로 쌓았습니다" } }
+      }
+    },
+    "Stacked vertically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "세로 정렬" } }
+      }
+    },
+    "Stacks windows in a single column." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창을 한 열로 쌓습니다." } }
+      }
+    },
+    "Startup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "시작" } }
+      }
+    },
+    "Switch to the app you want to align, then press the shortcut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "정렬할 앱으로 전환한 다음 단축키를 누르세요" } }
+      }
+    },
+    "System accessibility" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "시스템 손쉬운 사용" } }
+      }
+    },
+    "The app" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "해당 앱" } }
+      }
+    },
+    "The frontmost app" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 앱" } }
+      }
+    },
+    "the frontmost app" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 앱" } }
+      }
+    },
+    "The keyboard shortcuts keep working. To bring the icon back, open AutoAlignPanels from Launchpad or Finder while it's running." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "키보드 단축키는 계속 작동합니다. 아이콘을 되돌리려면 앱이 실행 중일 때 Launchpad나 Finder에서 AutoAlignPanels를 여세요." } }
+      }
+    },
+    "These reflect your System Settings. AutoAlignPanels adapts its animations and colors to them automatically." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "시스템 설정의 상태를 표시합니다. AutoAlignPanels는 애니메이션과 색상을 여기에 맞춰 자동으로 조정합니다." } }
+      }
+    },
+    "To show the icon again, open AutoAlignPanels from Launchpad or Finder while it's running." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아이콘을 다시 보려면 앱이 실행 중일 때 Launchpad나 Finder에서 AutoAlignPanels를 여세요." } }
+      }
+    },
+    "Untitled window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "제목 없는 창" } }
+      }
+    },
+    "Uses the system speech synthesizer, so results are spoken even when VoiceOver is off." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "시스템 음성 합성을 사용해 VoiceOver가 꺼져 있어도 결과를 말해 줍니다." } }
+      }
+    },
+    "Verbose announcements" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "자세한 안내" } }
+      }
+    },
+    "Version %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "버전 %@" } }
+      }
+    },
+    "Vertical layout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "세로 정렬" } }
+      }
+    },
+    "Vertical layout, %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "세로 정렬, 창 %lld개" } }
+      }
+    },
+    "Vertical layout, first %lld of %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "세로 정렬, 창 %2$lld개 중 처음 %1$lld개" } }
+      }
+    },
+    "Welcome Guide" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "시작 가이드" } }
+      }
+    },
+    "Welcome to AutoAlignPanels" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels 시작하기" } }
+      }
+    },
+    "When enabled, VoiceOver announces the layout and window count after each alignment." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "켜면 정렬 후 VoiceOver가 레이아웃과 창 개수를 안내합니다." } }
+      }
+    },
+    "Window gap" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 간격" } }
+      }
+    },
+    "Window gap in points" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 간격(포인트)" } }
+      }
+    },
+    "%lld apps" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱 %lld개" } }
+      }
+    },
+    "Aligned %lld windows from %lld apps horizontally side by side" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱 %2$lld개의 창 %1$lld개를 가로로 나란히 정렬했습니다" } }
+      }
+    },
+    "Aligned %lld windows from %lld apps into a %lld by %lld grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱 %2$lld개의 창 %1$lld개를 %3$lld x %4$lld 그리드로 정렬했습니다" } }
+      }
+    },
+    "All Apps: Grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 앱: 그리드" } }
+      }
+    },
+    "All Apps: Side by Side" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 앱: 가로 나란히" } }
+      }
+    },
+    "All Apps: Stack by App" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 앱: 앱별 겹치기" } }
+      }
+    },
+    "All Apps: Stacked Vertically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 앱: 세로 쌓기" } }
+      }
+    },
+    "All apps: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 앱: %@" } }
+      }
+    },
+    "All apps: grid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 앱: 그리드" } }
+      }
+    },
+    "All apps: side by side" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 앱: 가로 나란히" } }
+      }
+    },
+    "All apps: stacked vertically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "모든 앱: 세로 쌓기" } }
+      }
+    },
+    "All visible apps" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "보이는 모든 앱" } }
+      }
+    },
+    "Arranges the windows of every visible app on the current screen into a grid." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 화면에 보이는 모든 앱의 창을 그리드로 정렬합니다." } }
+      }
+    },
+    "Arranges the windows of every visible app on this screen into a grid." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이 화면에 보이는 모든 앱의 창을 그리드로 정렬합니다." } }
+      }
+    },
+    "AutoAlignPanels will be copied to the Applications folder, replacing any previous version, and reopened from there. macOS cannot remember Accessibility permission for an app running from a disk image." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels를 응용 프로그램 폴더에 복사하고(이전 버전은 교체됩니다) 그곳에서 다시 엽니다. 디스크 이미지에서 실행 중인 앱에는 macOS가 손쉬운 사용 권한을 기억하지 못합니다." } }
+      }
+    },
+    "By app" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱별" } }
+      }
+    },
+    "Could not install automatically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "자동으로 설치하지 못했습니다" } }
+      }
+    },
+    "Install and Reopen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "설치 후 다시 열기" } }
+      }
+    },
+    "Lines up the windows of every visible app in a single row." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "보이는 모든 앱의 창을 한 줄로 나란히 배치합니다." } }
+      }
+    },
+    "Lines up the windows of every visible app on the current screen in a single row." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 화면에 보이는 모든 앱의 창을 한 줄로 나란히 배치합니다." } }
+      }
+    },
+    "Maximized %lld windows from %lld apps, stacked full screen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱 %2$lld개의 창 %1$lld개를 전체 화면으로 겹쳐 최대화했습니다" } }
+      }
+    },
+    "Stack by app" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱별 겹쳐 정렬" } }
+      }
+    },
+    "Stacked %lld windows from %lld apps vertically" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱 %2$lld개의 창 %1$lld개를 세로로 쌓았습니다" } }
+      }
+    },
+    "Stacked %lld windows of %lld apps into a %lld by %lld grid, one stack per app" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱 %2$lld개의 창 %1$lld개를 앱별로 겹쳐 %3$lld x %4$lld 그리드로 정렬했습니다" } }
+      }
+    },
+    "Stacked by app" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱별 겹치기" } }
+      }
+    },
+    "Stacked by app, %lld apps, %lld windows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱별 겹치기, 앱 %1$lld개, 창 %2$lld개" } }
+      }
+    },
+    "Stacks each app's windows on top of each other, then tiles one stack per app. Press a slot shortcut again to cycle through a stack." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱별로 창을 겹쳐 쌓고, 앱마다 한 칸씩 바둑판식으로 배치합니다. 슬롯 단축키를 다시 누르면 묶음 안의 창을 차례로 전환합니다." } }
+      }
+    },
+    "Stacks each app's windows on top of each other, then tiles the stacks." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱별로 창을 겹쳐 쌓은 뒤, 쌓인 묶음을 바둑판식으로 배치합니다." } }
+      }
+    },
+    "Stacks the windows of every visible app in a single column." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "보이는 모든 앱의 창을 한 열로 쌓습니다." } }
+      }
+    },
+    "Stacks the windows of every visible app on the current screen in a single column." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 화면에 보이는 모든 앱의 창을 한 열로 쌓습니다." } }
+      }
+    },
+    "Left Half" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽 절반" } }
+      }
+    },
+    "Right Half" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오른쪽 절반" } }
+      }
+    },
+    "Top Half" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "위쪽 절반" } }
+      }
+    },
+    "Bottom Half" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아래쪽 절반" } }
+      }
+    },
+    "Top Left Quarter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽 위 1/4" } }
+      }
+    },
+    "Top Right Quarter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오른쪽 위 1/4" } }
+      }
+    },
+    "Bottom Left Quarter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽 아래 1/4" } }
+      }
+    },
+    "Bottom Right Quarter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오른쪽 아래 1/4" } }
+      }
+    },
+    "Left Third" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽 1/3" } }
+      }
+    },
+    "Center Third" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가운데 1/3" } }
+      }
+    },
+    "Right Third" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오른쪽 1/3" } }
+      }
+    },
+    "Top Third" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "위쪽 1/3" } }
+      }
+    },
+    "Bottom Third" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아래쪽 1/3" } }
+      }
+    },
+    "Left Two Thirds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽 2/3" } }
+      }
+    },
+    "Center Two Thirds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가운데 2/3" } }
+      }
+    },
+    "Right Two Thirds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오른쪽 2/3" } }
+      }
+    },
+    "Top Two Thirds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "위쪽 2/3" } }
+      }
+    },
+    "Bottom Two Thirds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "아래쪽 2/3" } }
+      }
+    },
+    "Top Left Sixth" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽 위 1/6" } }
+      }
+    },
+    "Top Center Sixth" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가운데 위 1/6" } }
+      }
+    },
+    "Top Right Sixth" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오른쪽 위 1/6" } }
+      }
+    },
+    "Bottom Left Sixth" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "왼쪽 아래 1/6" } }
+      }
+    },
+    "Bottom Center Sixth" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가운데 아래 1/6" } }
+      }
+    },
+    "Bottom Right Sixth" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "오른쪽 아래 1/6" } }
+      }
+    },
+    "Row 1 of 4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "4줄 중 1번째" } }
+      }
+    },
+    "Row 2 of 4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "4줄 중 2번째" } }
+      }
+    },
+    "Row 3 of 4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "4줄 중 3번째" } }
+      }
+    },
+    "Row 4 of 4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "4줄 중 4번째" } }
+      }
+    },
+    "Maximize" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "최대화" } }
+      }
+    },
+    "Center" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "가운데로" } }
+      }
+    },
+    "Restore" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "복원" } }
+      }
+    },
+    "Next Display" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "다음 디스플레이" } }
+      }
+    },
+    "Previous Display" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "이전 디스플레이" } }
+      }
+    },
+    "Snap Window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창 스냅" } }
+      }
+    },
+    "Snap focused window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 창 스냅" } }
+      }
+    },
+    "Could not move the window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "창을 이동하지 못했습니다" } }
+      }
+    },
+    "Defaults match Magnet. On a portrait display, thirds run top to bottom." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "기본값은 Magnet과 같습니다. 세로 디스플레이에서는 1/3 분할이 위에서 아래로 나뉩니다." } }
+      }
+    },
+    "Moves the focused window to this part of its screen." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 창을 화면의 이 영역으로 옮깁니다." } }
+      }
+    },
+    "Returns the focused window to where it was before it was first snapped." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 창을 처음 스냅하기 전 위치로 되돌립니다." } }
+      }
+    },
+    "Moves the focused window to the next display." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 창을 다음 디스플레이로 옮깁니다." } }
+      }
+    },
+    "Moves the focused window to the previous display." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "현재 창을 이전 디스플레이로 옮깁니다." } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

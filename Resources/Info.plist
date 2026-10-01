@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>LSUIElement</key>
+    <true/>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleName</key>
+    <string>AutoAlignPanels</string>
+    <key>CFBundleIdentifier</key>
+    <string>io.github.neuralfoundry-coder.AutoAlignPanels</string>
+    <key>CFBundleVersion</key>
+    <string>$(CURRENT_PROJECT_VERSION)</string>
+    <key>CFBundleShortVersionString</key>
+    <string>$(MARKETING_VERSION)</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleExecutable</key>
+    <string>AutoAlignPanels</string>
+    <key>NSAccessibilityUsageDescription</key>
+    <string>AutoAlignPanels is an accessibility tool for users with vision, motor, or cognitive needs. It uses the macOS Accessibility API to (1) speak the layout and titles of open windows for VoiceOver users, (2) move keyboard focus between aligned windows for users who cannot use a pointing device reliably, and (3) arrange windows into predictable, repeatable layouts in response to a single keystroke, replacing repetitive drag-and-resize gestures that are difficult for users with RSI or limited dexterity.</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.productivity</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright 2026 neuralfoundry-coder. PolyForm Noncommercial 1.0.0.</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels" } }
+      }
+    },
+    "NSAccessibilityUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels is an accessibility tool for users with vision, motor, or cognitive needs. It uses the macOS Accessibility API to (1) speak the layout and titles of open windows for VoiceOver users, (2) move keyboard focus between aligned windows for users who cannot use a pointing device reliably, and (3) arrange windows into predictable, repeatable layouts in response to a single keystroke, replacing repetitive drag-and-resize gestures that are difficult for users with RSI or limited dexterity." } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "AutoAlignPanels는 시각·운동·인지 접근성이 필요한 사용자를 위한 손쉬운 사용 도구입니다. macOS 손쉬운 사용 API를 사용해 (1) VoiceOver 사용자를 위해 열린 창의 레이아웃과 제목을 음성으로 읽고, (2) 포인팅 장치를 사용하기 어려운 사용자를 위해 정렬된 창 사이에서 키보드 포커스를 이동하며, (3) 단축키 한 번으로 창을 예측 가능하고 반복 가능한 레이아웃으로 정렬하여 RSI나 정밀한 조작이 어려운 사용자의 반복적인 드래그·크기 조절을 대신합니다." } }
+      }
+    }
+  },
+  "version" : "1.0"
+}
